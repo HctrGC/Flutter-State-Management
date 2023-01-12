@@ -1,4 +1,4 @@
-# singleton
+# Flutter State Management Solutions
 
 A new Flutter project.
 
